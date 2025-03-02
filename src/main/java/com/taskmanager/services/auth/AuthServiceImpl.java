@@ -1,4 +1,4 @@
-package com.taskmanager.services.jwt.auth;
+package com.taskmanager.services.auth;
 
 import com.taskmanager.dto.SignupRequest;
 import com.taskmanager.dto.UserDto;
